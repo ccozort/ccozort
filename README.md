@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccozort
 - 👀 I’m interested in Computer Graphics, Game Development
-- 🌱 I’m currently learning JavaScript, Python, Back end development
+- 🌱 I’m currently proficient with JavaScript and Python.
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me chriscozort@gmail.com
 
